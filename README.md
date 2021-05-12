@@ -16,13 +16,36 @@ A streamlined training web service, acting as an extension of the Revature Pro f
 * DBeaver 21.0.1
 * Azure SQL database
 * Azure Blob Storage
-* Azure Virtual Machine
-* Jenkins 2.277.1
-* Ubuntu 18.04.5
 
 ### Back-End:
-* Spring
+* Spring Framework
+* Spring Boot
+* Spring Web
+* Spring AOP
+* Spring Data
+* Spring MVC
+* Spring Security 
+* Azure SQL database
+* Tomcat
+* Java 
+* RESTful Webservice
+* Ubuntu 18.04.5
 * Intellij IDEA
+
+### DevOps
+* Azure DevOps
+* Gitlab
+* Azure VM
+* Azure Blobstorage
+* Azure DevOps Pipeline
+* Jenkins
+* Docker
+
+### Testing
+* Spring Test
+* Mockito
+* JUnit
+* Log4j
 
 ## Features
 ### List of Features
