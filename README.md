@@ -47,6 +47,11 @@ A streamlined training web service, acting as an extension of the Revature Pro f
 * JUnit
 * Log4j
 
+### Agile/Scrum
+* Trello
+* Discord
+* Zoom
+
 ## Features
 ### List of Features
 * Potential users can register an account. Their default role is ASSOCIATE
