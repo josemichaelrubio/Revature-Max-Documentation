@@ -5,7 +5,7 @@
 A streamlined training web service, acting as an extension of the Revature Pro functionality. Revature Max is centered around enhanced feedback streams between the trainer and associates within a batch. The web service incites collaboration between associates and allows the trainer to have constant feedback from the entire batch. Associates can share topic notes and stay updated on batch progress with class assessment, QC rating, and topic competence averages. Each trainer has additional flexibility in setting the curriculum calendar and visualizing batch competency statistics.
 
 ## Technologies Used
-### Front-End:
+### Frontend
 * Visual Studio Code
 * Git Bash 2.30.1
 * GitLab
@@ -17,7 +17,7 @@ A streamlined training web service, acting as an extension of the Revature Pro f
 * Azure SQL database
 * Azure Blob Storage
 
-### Back-End:
+### Backend
 * Spring Framework
 * Spring Boot
 * Spring Web
