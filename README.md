@@ -111,7 +111,6 @@ To clone, open git and cd to your documents folder, then enter the following com
 
 'git clone git@gitlab.com:210301-java-azure/project3/revature-max-gateway-service.git'
 
-
 ## Getting Started
 After cloning the frontend repository, we must install the node_modules. Thus, open Git-bash within the application and input the following commands:
 ### Node Modules
