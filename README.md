@@ -99,10 +99,16 @@ Trainer:
 
 To clone, open git and cd to your documents folder, then enter the following command: 
 
-`git clone https://gitlab.com/210301-java-azure/p2-revengers/revature-max-frontend.git`
+'git clone git@gitlab.com:210301-java-azure/project3/revature-max-batch-service.git'
+'git clone git@gitlab.com:210301-java-azure/project3/revature-max-curriculum-service.git'
+'git clone git@gitlab.com:210301-java-azure/project3/revature-max-discovery-service.git'
+'git clone git@gitlab.com:210301-java-azure/project3/revature-max-employee-service.git'
+'git clone git@gitlab.com:210301-java-azure/project3/revature-max-frontend.git'
+'git clone git@gitlab.com:210301-java-azure/project3/revature-max-gateway-service.git'
+
 
 ## Getting Started
-After cloning the repository, we must install the node_modules. Thus, open Git-bash within the application and input the following commands:
+After cloning the frontend repository, we must install the node_modules. Thus, open Git-bash within the application and input the following commands:
 ### Node Modules
 `npm install`
 >Installs all the modules listed as dependencies in package.json
