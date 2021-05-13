@@ -54,7 +54,9 @@ A streamlined training web service, acting as an extension of the Revature Pro f
 
 ## Features
 ### List of Features
-* Potential users can register an account. Their default role is ASSOCIATE
+* Potential users can register an account. Their default role is GUEST
+* Upon registering users will recieve an email to verify their account
+* Once verified they will become an ASSOCIATE and can be added to a batch
 * All registered associates can log in and view their information in the associate tab located in the navigation bar. 
 * Registered associates assigned to a batch can access the batch dashboard, located in the navigation bar.
 * The Batch Dashboard contains three tabs: 
