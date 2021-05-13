@@ -100,10 +100,15 @@ Trainer:
 To clone, open git and cd to your documents folder, then enter the following command: 
 
 'git clone git@gitlab.com:210301-java-azure/project3/revature-max-batch-service.git'
+
 'git clone git@gitlab.com:210301-java-azure/project3/revature-max-curriculum-service.git'
+
 'git clone git@gitlab.com:210301-java-azure/project3/revature-max-discovery-service.git'
+
 'git clone git@gitlab.com:210301-java-azure/project3/revature-max-employee-service.git'
+
 'git clone git@gitlab.com:210301-java-azure/project3/revature-max-frontend.git'
+
 'git clone git@gitlab.com:210301-java-azure/project3/revature-max-gateway-service.git'
 
 
